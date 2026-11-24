@@ -135,4 +135,4 @@ Bug reports and pull requests are welcome. Please don't include API credentials,
 
 [MIT](LICENSE). Free to use, change and share, including commercially.
 
-Built by [TastyPlacement](https://www.tastyplacement.com).
+Built by [TastyPlacement](https://tastyplacement.com).
